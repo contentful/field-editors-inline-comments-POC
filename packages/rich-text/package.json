@@ -55,7 +55,7 @@
     "@udecode/plate-list": "16.8.0",
     "@udecode/plate-paragraph": "16.8.0",
     "@udecode/plate-reset-node": "16.8.0",
-    "@udecode/plate-select": "16.8.0",
+    "@udecode/plate-select": "18.15.0",
     "@udecode/plate-serializer-docx": "16.8.0",
     "@udecode/plate-serializer-html": "16.8.0",
     "@udecode/plate-table": "16.8.0",
